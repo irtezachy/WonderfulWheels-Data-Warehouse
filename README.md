@@ -56,5 +56,5 @@ The project consists of three primary databases, each serving a unique purpose:
 
 The Wonderful Wheels Data Warehouse Project efficiently organizes operational data into a format conducive to in-depth analysis and reporting. The separation of operational and analytical databases allows for optimized performance and detailed business insights.
 ## Thank you for Reading 
-Happy Codding.
+Happy Codding..
 
